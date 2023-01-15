@@ -5,7 +5,7 @@ import React from "react";
 function Nav() {
 return (
 <div>
-<nav className="navbar  navbar-expand-lg navbar-dark bg-dark p-2 mb-4">
+<nav className="navbar  navbar-expand-lg navbar-dark bg-dark  mb-5 fixed-top">
   <a className="navbar-brand ms-5" href="#">Start Bootstrap</a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
